@@ -35,8 +35,7 @@
     "twemoji"
   ],
   "scripts": {
-    "build": "parcel build --no-autoinstall",
-    "prepublishOnly": "yarn build"
+    "build": "parcel build --no-autoinstall"
   },
   "devDependencies": {
     "preact": "10.6.4"
